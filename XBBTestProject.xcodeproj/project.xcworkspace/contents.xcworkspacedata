@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../XBBTestProject/XBBBase"
+      name = "XBBBase">
+      <FileRef
+         location = "group:../XBBClass/XBBClassfirst/Controller/XBBfirstViewController.h">
+      </FileRef>
+      <FileRef
+         location = "group:../XBBClass/XBBClassfirst/Controller/XBBfirstViewController.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:../XBBTestProject/XBBMagic"
+      name = "XBBMagic">
+   </Group>
+   <FileRef
+      location = "self:XBBTestProject.xcodeproj">
+   </FileRef>
+</Workspace>
