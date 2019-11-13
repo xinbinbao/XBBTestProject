@@ -24,6 +24,7 @@
     self.window.rootViewController =navVC;
     
     self.window.backgroundColor = [UIColor redColor];
+    self.window.backgroundColor = [UIColor brownColor];
     [self.window makeKeyAndVisible];
     // Override point for customization after application launch.
     return YES;
